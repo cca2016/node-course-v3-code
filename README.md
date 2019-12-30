@@ -13,6 +13,6 @@ Contents involved:
   -- Authentication and Security . 
   -- Socket.io . 
 Deveploped Three APPs:  
-  -- Notes App . 
-  -- Weather App . 
-  -- Task App . 
+  -- Notes App   
+  -- Weather App   
+  -- Task App   
