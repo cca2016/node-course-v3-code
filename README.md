@@ -9,7 +9,7 @@
   -- Accessing API   
   -- Application Deployment   
   -- MongoDB and Promises  
-  -- REST api   
+  -- Mongoose and REST  
   -- Authentication and Security   
   -- Socket.io   
 ### Deveploped Three APPs:  
