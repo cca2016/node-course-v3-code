@@ -12,7 +12,8 @@
   -- Mongoose and REST  
   -- Authentication and Security   
   -- Socket.io   
-### Deveploped Three APPs:  
+### Deveploped Four APPs:  
   -- Notes App   
   -- Weather App   
-  -- Task App (Mongoose, REST)    
+  -- Task App (Mongoose, REST)  
+  -- Chat APP (Socket.io)
