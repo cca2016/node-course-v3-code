@@ -15,4 +15,4 @@
 ### Deveploped Three APPs:  
   -- Notes App   
   -- Weather App   
-  -- Task App   
+  -- Task App (Mongoose, REST)    
