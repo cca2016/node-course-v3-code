@@ -16,4 +16,4 @@
   -- Notes App   
   -- Weather App   
   -- Task App (Mongoose, REST)  
-  -- Chat APP (Socket.io)
+  -- Chat APP (Socket.io) Deployed on https://chatonlinenodejs.herokuapp.com/
